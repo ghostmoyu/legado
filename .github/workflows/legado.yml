@@ -84,3 +84,4 @@ jobs:
         run: python $GITHUB_WORKSPACE/.github/lzy.py
         env:
           UPLOAD_FOLDER: ${{ github.workspace }}/app/build/outputs/apk/app/release/
+
